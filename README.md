@@ -1,5 +1,7 @@
 # taller00
 
+Tais Balcázar y Edgar Espinoza 
+
 * Generar una solución en el proyecto de Netbeans, que permita obtener a través de una sentencia printf, la siguiente salida:
 
 Loja, una ciudad llena de arte y naturaleza con 400322
